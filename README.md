@@ -34,8 +34,9 @@ As a part of ML-based causal representation learning project in quantitative fin
 <img width="899" height="321" alt="image" src="https://github.com/user-attachments/assets/0efaf4aa-3433-47c6-99f9-50026e2afd42" />
 
 ## Real World. Close Price and HMM Regime: 
-![image.png](attachment:df433ad0-1bd0-4843-8950-36f42c75faa4.png)
+<img width="1487" height="780" alt="image" src="https://github.com/user-attachments/assets/f06d6dd8-7590-4d93-b016-b1eab8d831f0" />
 
 ## Simulated World. Close Price and HMM Regime: : 
-![image.png](attachment:cf352d3b-fd90-4198-aa9d-f329ce53838b.png)
+<img width="1487" height="780" alt="image" src="https://github.com/user-attachments/assets/9aad10ab-5a7a-4972-9fde-8e70ce6a4246" />
+
 
