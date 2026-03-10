@@ -40,3 +40,16 @@ As a part of ML-based causal representation learning project in quantitative fin
 <img width="1487" height="780" alt="image" src="https://github.com/user-attachments/assets/9aad10ab-5a7a-4972-9fde-8e70ce6a4246" />
 
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Contact
+Author
+
+Dmitry Kandrykinski
+
+   GitHub: @Swimmov
+
+   LinkedIn: https://www.linkedin.com/in/dmitry-kin/
+   
+   Email: d.kandrykinski@gmail.com
