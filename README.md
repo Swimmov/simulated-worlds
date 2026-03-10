@@ -40,6 +40,30 @@ As a part of ML-based causal representation learning project in quantitative fin
 <img width="1487" height="780" alt="image" src="https://github.com/user-attachments/assets/9aad10ab-5a7a-4972-9fde-8e70ce6a4246" />
 
 
+## Real World 'return' Destribution:
+count    6468.000000
+mean        0.000312
+std         0.012166
+min        -0.119841
+25%        -0.004704
+50%         0.000645
+75%         0.005860
+max         0.115800
+Name: fwd_return, dtype: float64
+
+## Simulation World 'return' Destribution:
+count    6468.000000
+mean        0.000340
+std         0.015477
+min        -0.123336
+25%        -0.006799
+50%         0.000226
+75%         0.007333
+max         0.104471
+Name: sim_return, dtype: float64
+
+
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
